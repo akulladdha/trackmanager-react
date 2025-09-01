@@ -1,3 +1,13 @@
+This is a simple app created to manage your running experience. It includes features such as a Firebase authentication with user loging, PR tracker, training calendar, and AI chatbot. Additional updates will include a community feature to join clubs with other users on the app. 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
