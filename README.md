@@ -1,6 +1,6 @@
 This is a simple app created to manage your running experience. It includes features such as a Firebase authentication with user loging, PR tracker, training calendar, and AI chatbot. Additional updates will include a community feature to join clubs with other users on the app. 
 
-[Logo
+[Click me to view the UI!
 ](https://github.com/akulladdha/trackmanager-react/blob/main/public/UiImage.png)
 
 
