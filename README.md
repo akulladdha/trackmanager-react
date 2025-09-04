@@ -6,7 +6,7 @@ This is a simple app created to manage your running experience. It includes feat
 
 
 
-
+Basic React instructions to run this on a local machine.
 
 # Getting Started with Create React App
 
