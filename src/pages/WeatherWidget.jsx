@@ -11,8 +11,8 @@ export default function WeatherWidget() {
     
     <a
         className="weatherwidget-io"
-        href="https://forecast7.com/en/40d38n74d53/south-brunswick-township/?unit=us"
-        data-label_1="SOUTH BRUNSWICK"
+        href="https://forecast7.com/en/30d27n97d74/austin/?unit=us"
+        data-label_1="AUSTIN"
         data-theme="original"
         data-basecolor="#1a1a1d"
         data-accent="rgba(0, 200, 150, 0.2)"
